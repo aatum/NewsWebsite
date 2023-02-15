@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import NewsPiece from "./NewsPiece";
-import { API_KEY } from "../keys";
+import API_KEY from "../keys";
 import { makeStyles } from '@mui/styles';
 import Card from '@mui/material/Card';
 import CardActionArea from '@mui/material/CardActionArea';
